@@ -1,5 +1,12 @@
 
 
+"""
+HackerRank Python Practice   
+Q1 : List Comprehension
+
+Sedat Ali ZEVİT
+"""
+
 
 
 if __name__ == '__main__':
