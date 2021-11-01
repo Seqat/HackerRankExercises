@@ -1,3 +1,11 @@
+"""
+HackerRank Python (Basic Data Types) Practice   
+Q4 : Lists
+
+Sedat Ali ZEVİT
+"""
+
+
 if __name__ == '__main__':
     
     N = int(input())
