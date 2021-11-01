@@ -11,13 +11,20 @@ Sedat Ali ZEVİT
 
 if __name__ == '__main__':
     
-    n = int(input())
+    #Taking the inputs
+    n = int(input())    
     
     arr = list(map(int, input().split()))
     
-    arr=set(arr)
+    #set() function removes repetitve values and sorts in ascending order
+    arr=set(arr)    
     
-    arr.remove(max(arr))
+    #remove max value to find runner-up score
+    arr.remove(max(arr)) 
     
-    print(max(arr))
+
+    #prints runner up score
+    print(max(arr)) 
+
+
 

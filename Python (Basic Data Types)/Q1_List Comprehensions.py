@@ -10,6 +10,7 @@ Sedat Ali ZEVİT
 
 
 if __name__ == '__main__':
+    
     #Taking values
     x = int(input())
     y = int(input())
