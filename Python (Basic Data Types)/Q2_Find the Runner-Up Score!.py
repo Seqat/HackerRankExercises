@@ -1,7 +1,7 @@
 
 
 """
-HackerRank Python Practice   
+HackerRank Python (Basic Data Types) Practice   
 Q2 : Find the Runner-Up Score! 
 
 Sedat Ali ZEVİT

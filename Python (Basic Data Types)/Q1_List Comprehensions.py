@@ -1,7 +1,7 @@
 
 
 """
-HackerRank Python Practice   
+HackerRank Python (Basic Data Types) Practice   
 Q1 : List Comprehension
 
 Sedat Ali ZEVİT
