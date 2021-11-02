@@ -14,5 +14,5 @@ My Solutions of the HackerRank Problems in various practices
     2. [C (Conditional and Loops) Solutions](#subparagraph1)
 
 3. [Problem Solving Solutions]
-
+    1.  [Problem Solving (Basic) Solutions](#subparagraph)
 
