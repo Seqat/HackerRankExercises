@@ -23,13 +23,13 @@ int main()
     for(int i=0;i<len;i++){
         for(int j=0;j<len;j++){
             
-            // minimum difference between vertical & horizontal sides
+            // Minimum difference between vertical & horizontal sides
             int min = i < j ? i : j;
             
-            // minimum difference between vertical sides 
+            // Minimum difference between vertical sides 
             min = min < len-i ? min : len-i-1;
             
-            // minimum difference between horizontal sides 
+            // Minimum difference between horizontal sides 
             min = min < len-j-1 ? min : len-j-1;
             
             printf("%d ", n-min);
