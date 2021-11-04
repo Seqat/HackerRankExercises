@@ -30,11 +30,18 @@ import sys
 
 def timeConversion(s):
     # Write your code here
+    
+    #Splits string based on ":", and creates a list like ['Hour','Minute','Second(AM/PM)']
     x = s.split(":", 3)
+    
+    #Take the "AM/PM" part
     a=x[2]
+
+
     b=a[:2:]
     a=a[2::]
 
+    #Revise the list like ['Hour','Minute','Second']
     x.remove(x[2])
     x.append(b)
 
@@ -61,7 +68,6 @@ if __name__ == '__main__':
     s = input()
 
     result = timeConversion(s)
-
+    
     fptr.write(result + '\n')
-
     fptr.close()
