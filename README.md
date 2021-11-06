@@ -2,6 +2,8 @@
 
 My Solutions of the HackerRank Problems in various practices
 
+My HackerRank Account: [sedatalizevit](https://www.hackerrank.com/sedatalizevit)
+
 
 ## Table of Contents
 
