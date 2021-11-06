@@ -19,7 +19,11 @@ My HackerRank Account: [sedatalizevit](https://www.hackerrank.com/sedatalizevit)
 
 3. Python Solutions
     1.  [Python (Introduction) Solutions](https://github.com/Seqat/HackerRankExercises/tree/main/Python%20Solutions/Python%20(Introduction))
+    
     2.  [Python (Basic Data Types) Solutions](https://github.com/Seqat/HackerRankExercises/tree/main/Python%20Solutions/Python%20(Basic%20Data%20Types))
+    
+    3.  [Python (Strings) Solutions](https://github.com/Seqat/HackerRankExercises/tree/main/Python%20Solutions/Python%20(Strings))
+
 
 
 
