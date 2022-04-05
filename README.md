@@ -1,6 +1,6 @@
 # HackerRankExercises
 
-My Solutions of the HackerRank Problems in various practices
+My Solutions of the HackerRank Problems in various practices.I hope you'd like it :D
 
 My HackerRank Account: [sedatalizevit](https://www.hackerrank.com/sedatalizevit)
 
